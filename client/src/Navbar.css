@@ -1,0 +1,23 @@
+:root {
+    --pcol: rgb(231, 223, 223);
+    --scol: green;
+    --tspeed: 0.5s;
+    --base-scale: 15.1;
+    --subMenu-width: 20.25rem;
+   
+    --fgrad: linear-gradient(
+      139deg,
+      rgb(223, 213, 213) 16%,
+      rgb(201, 164, 164) 52%,
+      rgb(184, 164, 164) 88%
+    );
+    --sgrad: linear-gradient(
+      200deg,
+      rgb(221, 199, 199) 16%,
+      rgb(204, 167, 204) 76%,
+      rgb(226, 207, 207) 100%
+    );
+   
+    --rm-font-size: 1 rem;
+    --sm-font-size: 1 rem;
+  }
